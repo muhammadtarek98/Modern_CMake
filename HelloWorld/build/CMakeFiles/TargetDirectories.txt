@@ -1,0 +1,3 @@
+/home/muhammad/projects/Modren_CMake/HelloWorld/build/CMakeFiles/HelloWorld.dir
+/home/muhammad/projects/Modren_CMake/HelloWorld/build/CMakeFiles/edit_cache.dir
+/home/muhammad/projects/Modren_CMake/HelloWorld/build/CMakeFiles/rebuild_cache.dir

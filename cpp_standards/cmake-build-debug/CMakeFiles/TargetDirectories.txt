@@ -1,0 +1,3 @@
+/home/muhammad/projects/Modren_CMake/cpp_standards/cmake-build-debug/CMakeFiles/cpp_standards.dir
+/home/muhammad/projects/Modren_CMake/cpp_standards/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/muhammad/projects/Modren_CMake/cpp_standards/cmake-build-debug/CMakeFiles/rebuild_cache.dir

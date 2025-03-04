@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.30)
+project(VS_CMAKE_organize)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED true)
+file(GLOB INCLUDE_DIR ./include/*.h)
+file(GLOB SRC_DIR ./src/*.cpp)
+
+add_executable(VS_CMAKE_organize  main.cpp ${SRC_DIR} ${INCLUDE_DIR})
+target_include_directories(VS_CMAKE_organize PUBLIC "include/")
+source_group("src" ${SRC_DIR})
+source_group("include" ${INCLUDE_DIR})

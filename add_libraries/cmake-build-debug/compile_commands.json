@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/muhammad/projects/Modren_CMake/add_libraries/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/muhammad/projects/Modren_CMake/add_libraries/Math/./include -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/add_libraries.dir/main.cpp.o -c /home/muhammad/projects/Modren_CMake/add_libraries/main.cpp",
+  "file": "/home/muhammad/projects/Modren_CMake/add_libraries/main.cpp",
+  "output": "CMakeFiles/add_libraries.dir/main.cpp.o"
+},
+{
+  "directory": "/home/muhammad/projects/Modren_CMake/add_libraries/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/home/muhammad/projects/Modren_CMake/add_libraries/Math/./include -g -std=gnu++20 -fdiagnostics-color=always -o Math/CMakeFiles/MATH_LIB.dir/src/sum.cpp.o -c /home/muhammad/projects/Modren_CMake/add_libraries/Math/src/sum.cpp",
+  "file": "/home/muhammad/projects/Modren_CMake/add_libraries/Math/src/sum.cpp",
+  "output": "Math/CMakeFiles/MATH_LIB.dir/src/sum.cpp.o"
+}
+]

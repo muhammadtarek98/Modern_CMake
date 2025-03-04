@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.2)
+project(includes VERSION 1.0)
+set(CMAKE_CXX_STANDARD 20)
+message("build directory ${CMAKE_BINARY_DIR}")
+message("source directory ${CMAKE_SOURCE_DIR}")
+add_executable(includes src/main.cpp src/sum.cpp)
+target_include_directories(includes PUBLIC header)

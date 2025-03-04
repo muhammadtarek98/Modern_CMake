@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.30)
+project(MATH_LIB)
+set(CMAKE_CXX_STANDARD 20)
+file(GLOB math_include_dir "./include/*.h")
+file(GLOB math_src_dir "./src/*.cpp")
+add_library(MATH_LIB ${math_src_dir})
+target_include_directories(MATH_LIB PUBLIC ./include)
