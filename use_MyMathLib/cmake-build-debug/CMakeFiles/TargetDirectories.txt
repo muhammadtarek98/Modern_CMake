@@ -1,3 +1,0 @@
-/home/muhammad/projects/Modern_CMake/use_MyMathLib/cmake-build-debug/CMakeFiles/use_MyMathLib.dir
-/home/muhammad/projects/Modern_CMake/use_MyMathLib/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/muhammad/projects/Modern_CMake/use_MyMathLib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
