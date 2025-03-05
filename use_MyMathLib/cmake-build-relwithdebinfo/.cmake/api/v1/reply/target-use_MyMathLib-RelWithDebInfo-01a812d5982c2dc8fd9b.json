@@ -56,14 +56,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++20 -fdiagnostics-color=always"
+					"fragment" : "-O2 -g -DNDEBUG -std=gnu++20 -fdiagnostics-color=always"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/muhammad/projects/Modren_CMake/create_lib/include"
+					"path" : "/home/muhammad/projects/Modern_CMake/create_lib/include"
 				}
 			],
 			"language" : "CXX",
@@ -87,7 +87,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g",
+				"fragment" : "-O2 -g -DNDEBUG",
 				"role" : "flags"
 			},
 			{
@@ -96,11 +96,11 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-L/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug",
+				"fragment" : "-L/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug",
 				"role" : "libraryPath"
 			},
 			{
-				"fragment" : "-Wl,-rpath,/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug",
+				"fragment" : "-Wl,-rpath,/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug",
 				"role" : "libraries"
 			},
 			{

@@ -43,7 +43,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Debug"
+			"value" : "RelWithDebInfo"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/muhammad/projects/Modren_CMake/use_MyMathLib/cmake-build-debug"
+			"value" : "/home/muhammad/projects/Modern_CMake/use_MyMathLib/cmake-build-relwithdebinfo"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/muhammad/projects/Modren_CMake/use_MyMathLib/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/muhammad/projects/Modern_CMake/use_MyMathLib/cmake-build-relwithdebinfo/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/muhammad/projects/Modren_CMake/use_MyMathLib"
+			"value" : "/home/muhammad/projects/Modern_CMake/use_MyMathLib"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1163,7 +1163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/muhammad/projects/Modren_CMake/use_MyMathLib/cmake-build-debug"
+			"value" : "/home/muhammad/projects/Modern_CMake/use_MyMathLib/cmake-build-relwithdebinfo"
 		},
 		{
 			"name" : "use_MyMathLib_IS_TOP_LEVEL",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/muhammad/projects/Modren_CMake/use_MyMathLib"
+			"value" : "/home/muhammad/projects/Modern_CMake/use_MyMathLib"
 		}
 	],
 	"kind" : "cache",

@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "use_MyMathLib::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-use_MyMathLib-Debug-4c4adc66008fd20a1d7e.json",
+					"jsonFile" : "target-use_MyMathLib-Debug-18fb9d88a2ecdedf87c2.json",
 					"name" : "use_MyMathLib",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/muhammad/projects/Modren_CMake/use_MyMathLib/cmake-build-debug",
-		"source" : "/home/muhammad/projects/Modren_CMake/use_MyMathLib"
+		"build" : "/home/muhammad/projects/Modern_CMake/use_MyMathLib/cmake-build-debug",
+		"source" : "/home/muhammad/projects/Modern_CMake/use_MyMathLib"
 	},
 	"version" : 
 	{
