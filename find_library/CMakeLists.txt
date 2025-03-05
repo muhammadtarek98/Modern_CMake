@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.22)
+project(find_library)
+
+find_library(mylib GLEW REQUIRED)
+if (${mylib} STREQUAL mylib-NOTFOUND)
+    message(FATAL_ERROR "lib not found")
+else ()
+    message(STATUS "lib found")
+endif ()
+add_executable(${PROJECT_NAME} main.cpp)
