@@ -1,3 +1,0 @@
-/home/muhammad/projects/Modren_CMake/hello_cmake/cmake-build-debug/CMakeFiles/hello_cmake.dir
-/home/muhammad/projects/Modren_CMake/hello_cmake/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/muhammad/projects/Modren_CMake/hello_cmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
