@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.22)
+project(use_MyMathLib)
+set(CMAKE_CXX_STANDARD 20)
+add_executable(use_MyMathLib main.cpp)
+target_include_directories(${PROJECT_NAME} PUBLIC "/home/muhammad/projects/Modren_CMake/create_lib/include/")
+target_link_directories(${PROJECT_NAME} PUBLIC "/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/")
+target_link_libraries(${PROJECT_NAME} MyMathLibrary)

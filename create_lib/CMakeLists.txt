@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(MyMathLibrary)
+add_library(${PROJECT_NAME} STATIC src/library.cpp)
+target_include_directories(${PROJECT_NAME} PUBLIC "include/")
+set_target_properties(${PROJECT_NAME} PROPERTIES PUBLIC include/library.h)
+install(TARGETS ${PROJECT_NAME} DESTINATION cmake-build-debug PUBLIC_HEADER DESTINATION include)
