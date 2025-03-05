@@ -1,7 +1,7 @@
-/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/CMakeFiles/MyMathLibrary.dir
-/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/CMakeFiles/list_install_components.dir
-/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/CMakeFiles/install.dir
-/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/CMakeFiles/install/local.dir
-/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/CMakeFiles/MyMathLibrary.dir
+/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/CMakeFiles/install.dir
+/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/CMakeFiles/install/local.dir
+/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/CMakeFiles/install/strip.dir

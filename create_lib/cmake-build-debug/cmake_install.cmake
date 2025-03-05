@@ -1,4 +1,4 @@
-# Install script for directory: /home/muhammad/projects/Modren_CMake/create_lib
+# Install script for directory: /home/muhammad/projects/Modern_CMake/create_lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -43,11 +43,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/cmake-build-debug" TYPE STATIC_LIBRARY FILES "/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/libMyMathLibrary.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/cmake-build-debug" TYPE STATIC_LIBRARY FILES "/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/libMyMathLibrary.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/CMakeFiles/MyMathLibrary.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
+  include("/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/CMakeFiles/MyMathLibrary.dir/install-cxx-module-bmi-Debug.cmake" OPTIONAL)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -65,6 +65,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/home/muhammad/projects/Modren_CMake/create_lib/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/muhammad/projects/Modern_CMake/create_lib/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
