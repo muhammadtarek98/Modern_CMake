@@ -364,3 +364,4 @@ cmake-build-relwithdebinfo/*
 /find_library/cmake-build-debug/CMakeFiles/TargetDirectories.txt
 /find_library/cmake-build-debug/.cmake/api/v1/query/toolchains-v1
 /find_library/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-7096c62e23c342eb06a8.json
+/find_library/cmake-build-debug/CMakeFiles/find_library.dir/main.cpp.o
