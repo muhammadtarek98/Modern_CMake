@@ -261,7 +261,6 @@ cmake-build-relwithdebinfo/*
 /add_external_lib/cmake-build-debug/CMakeDoxygenDefaults.cmake
 /add_external_lib/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1
 /add_external_lib/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-972214e018fd57e6c145.json
-/add_external_lib/CMakeLists.txt
 /add_external_lib/cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake
 /add_external_lib/cmake-build-debug/.cmake/api/v1/query/codemodel-v2
 /add_external_lib/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cf4a60622f5c23539d46.json
@@ -288,7 +287,6 @@ cmake-build-relwithdebinfo/*
 /add_external_lib/cmake-build-debug/Testing/Temporary/LastTest.log
 /add_external_lib/cmake-build-debug/external_lib/glfw/src/libglfw3.a
 /add_external_lib/cmake-build-debug/external_lib/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o
-/add_external_lib/main.cpp
 /add_external_lib/cmake-build-debug/CMakeFiles/add_external_lib.dir/main.cpp.o
 /add_external_lib/cmake-build-debug/external_lib/glfw/src/CMakeFiles/glfw.dir/monitor.c.o
 /add_external_lib/cmake-build-debug/external_lib/glfw/src/CMakeFiles/glfw.dir/null_init.c.o
