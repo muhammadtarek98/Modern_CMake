@@ -1,3 +1,8 @@
 ./*/cmake-build-debug/*
 cmake-build-relwithdebinfo/*
 ./*/cmake-build-release/*
+/VS_CMAKE_organize/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2548cf372515a6b4b5e1.json
+/VS_CMAKE_organize/cmake-build-debug/.cmake/api/v1/reply/cache-v2-9554f6f9f3b7cd7f56cd.json
+/VS_CMAKE_organize/cmake-build-debug/.cmake/api/v1/reply/target-VS_CMAKE_organize-Debug-1aa08b512055db2e3a93.json
+/VS_CMAKE_organize/cmake-build-debug/CMakeFiles/VS_CMAKE_organize.dir/src/sum.cpp.o
+./*/.idea/
