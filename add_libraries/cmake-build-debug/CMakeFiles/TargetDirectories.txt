@@ -1,6 +1,0 @@
-/home/muhammad/projects/Modren_CMake/add_libraries/cmake-build-debug/CMakeFiles/add_libraries.dir
-/home/muhammad/projects/Modren_CMake/add_libraries/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/muhammad/projects/Modren_CMake/add_libraries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/muhammad/projects/Modren_CMake/add_libraries/cmake-build-debug/Math/CMakeFiles/MATH_LIB.dir
-/home/muhammad/projects/Modren_CMake/add_libraries/cmake-build-debug/Math/CMakeFiles/edit_cache.dir
-/home/muhammad/projects/Modren_CMake/add_libraries/cmake-build-debug/Math/CMakeFiles/rebuild_cache.dir
