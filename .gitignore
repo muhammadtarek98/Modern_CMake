@@ -378,13 +378,11 @@ cmake-build-relwithdebinfo/*
 /find_package/cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_CXX.bin
 /find_package/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1
 /find_library/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-922e4451eb2437ea66df.json
-/find_package/CMakeLists.txt
 /find_package/cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake
 /find_package/cmake-build-debug/.cmake/api/v1/query/codemodel-v2
 /find_library/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5ee2c17cf72ec33421e6.json
 /find_library/cmake-build-debug/FindLibrary
 /find_library/cmake-build-debug/.cmake/api/v1/reply/index-2025-03-07T22-01-50-0621.json
-/find_package/main.cpp
 /.idea/inspectionProfiles/Project_Default.xml
 /find_library/cmake-build-debug/.cmake/api/v1/reply/target-FindLibrary-Debug-dc4d662d1cbd2b69b5e0.json
 /find_package/cmake-build-debug/.cmake/api/v1/query/toolchains-v1
