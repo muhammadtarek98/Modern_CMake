@@ -387,11 +387,8 @@ cmake-build-relwithdebinfo/*
 /find_library/cmake-build-debug/.cmake/api/v1/reply/target-FindLibrary-Debug-dc4d662d1cbd2b69b5e0.json
 /find_package/cmake-build-debug/.cmake/api/v1/query/toolchains-v1
 /find_library/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c1199874e7df176eab26.json
-/find_library/glew/
 /find_library/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2c7c3ea3dcd279666d0c.json
-/find_package/CMakeLists.txt
 /find_library/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-87358bf248cd39e47abd.json
 /find_library/cmake-build-debug/.cmake/api/v1/reply/index-2025-03-07T23-57-49-0613.json
-/find_package/main.cpp
 /find_library/cmake-build-debug/CMakeFiles/FindLibrary.dir/main.cpp.o
 /find_library/cmake-build-debug/.cmake/api/v1/reply/target-FindLibrary-Debug-7846d9aad68396adab50.json
