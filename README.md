@@ -173,16 +173,9 @@ cmake --build build
 - Leverage `find_package` when available for external dependencies
 - Use git submodules or FetchContent for including external source libraries
 
-## Contributing
-
-Feel free to add more examples or improve existing ones. Each example should be self-contained and focus on a specific CMake feature.
-
 ## Resources
 
 - [CMake Official Documentation](https://cmake.org/documentation/)
 - [Modern CMake Guide](https://cliutils.gitlab.io/modern-cmake/)
 - [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
 
-## License
-
-This project is intended for educational purposes.
